@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "aswin",
+      "lastName": "z",
+      "email": "aswin8681879422@gmail.com",
+      "mobile": "06380157944",
+      "salary": "12000000"
+    },
+    {
+      "id": 4,
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test",
+      "mobile": "43636",
+      "salary": "100004"
+    },
+    {
+      "id": 6,
+      "firstName": "abc",
+      "lastName": "a",
+      "email": "a@gmail.com",
+      "mobile": "123235",
+      "salary": "5000"
+    },
+    {
+      "id": 7,
+      "firstName": "azb",
+      "lastName": "bas",
+      "email": "a@gmail.com",
+      "mobile": "8248209",
+      "salary": "800000"
+    },
+    {
+      "id": 8,
+      "firstName": "Prakash",
+      "lastName": "V",
+      "email": "prakashvidjiacoumar2002@gmail.com",
+      "mobile": "6379396487",
+      "salary": "60000"
+    },
+    {
+      "id": 9,
+      "firstName": "bmf",
+      "lastName": "a",
+      "email": "56da@gmail.com",
+      "mobile": "123654789",
+      "salary": "100"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "a",
+      "email": "a",
+      "password": "a",
+      "mobile": 1,
+      "id": 1
+    },
+    {
+      "fullName": "aswin",
+      "email": "aswin@gmail.com",
+      "password": "abc123",
+      "mobile": 12345,
+      "id": 2
+    },
+    {
+      "fullName": "Prakash V",
+      "email": "prakashvidjiacoumar2002@gmail.com",
+      "password": "6379396487",
+      "mobile": 6379396487,
+      "id": 3
+    }
+  ],
+  "name": [
+    {
+      "id": 1,
+      "firstName": "c",
+      "lastName": "c",
+      "email": "c",
+      "mobile": "c",
+      "salary": "c"
+    },
+    {
+      "id": 2,
+      "firstName": "q",
+      "lastName": "q",
+      "email": "q",
+      "mobile": "q",
+      "salary": "q"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
